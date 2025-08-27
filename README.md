@@ -24,13 +24,6 @@ A classic Pong game built using Python's `turtle` graphics module. This project 
 - `turtle` module (comes pre-installed with Python)
 - Optional: Set `TCL_LIBRARY` and `TK_LIBRARY` paths if using custom Python installation on Windows
 
-## 📦 Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pong-game.git
-   cd pong-game
-
 **##🧠 Concepts Demonstrated- Object-Oriented Programming (OOP)**
 - Event-driven input handling
 - Real-time animation with screen.tracer()
